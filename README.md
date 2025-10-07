@@ -11,26 +11,14 @@ A React TypeScript + Tailwind template powered by [shadcn/ui](https://ui.shadcn.
 - **React Router** - Declarative routing for React.
 
 ## 🚀 Getting Started
-Follow these steps to get started:
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/heischichou/React-Shadcn-UI-Template
-    ```
-
-2. Navigate to the project directory:
-
-    ```bash
-    cd React-Shadcn-UI-Template
-    ```
-
-3. Install the dependencies:
+Follow these steps to get started: 
+1. Install the dependencies:
 
     ```bash
     npm install
     ```
 
-4. Start the development server:
+2. Start the development server:
 
     ```bash
     npm run start
@@ -83,6 +71,4 @@ React-Shadcn-UI-Template/
   └── tsconfig.json          # TypeScript configuration
 ```
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
+ 
