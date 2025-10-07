@@ -1,6 +1,6 @@
-# React Shadcn/UI Template
+# React mern-collab-frontend
 
-A React TypeScript + Tailwind template powered by [shadcn/ui](https://ui.shadcn.com/).
+A React + Tailwind.
 
 ## 🎉 Features
 
